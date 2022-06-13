@@ -17,7 +17,7 @@ public class ConfigManager {
 //		prop.load(inputStream);
 //		System.out.println("Inside config mange" + inputStream.toString());
 		
-		
+		// Commit B
 		
 		try {
 			FileInputStream ip = new FileInputStream("./resources/config.properties");
