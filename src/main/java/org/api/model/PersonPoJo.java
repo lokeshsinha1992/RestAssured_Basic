@@ -22,6 +22,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
         "phoneNumbers"
 })
 //@Generated("jsonschema2pojo")
+// Commit C
 public class PersonPoJo {
 
     @JsonProperty("firstName")
