@@ -1,5 +1,6 @@
 #ignoring Folders and everything inside it
 /logs/*
+/test-output/*
 
 #ignoring files
 Test File.txt
