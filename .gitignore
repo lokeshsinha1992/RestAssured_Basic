@@ -1,3 +1,5 @@
-#ignoring some files
-/logs/
+#ignoring Folders and everything inside it
+/logs/*
+
+#ignoring files
 Test File.txt
